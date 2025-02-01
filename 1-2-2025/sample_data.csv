@@ -1,0 +1,8 @@
+id,name,score,city,is_active
+1,Bob,92,Hyderabad,1
+5,John,55,Los Angeles,0
+6,Mary,88,NaN,NaN
+7,James,65,Miami,1
+8,NaN,72,NaN,1
+9,Luke,80,Boston,0
+10,NaN,90,Seattle,1
